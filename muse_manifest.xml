@@ -1,0 +1,94 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wunderpilates.com" resolutions="1x" timestamp="1543088141070">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4021456811" ref="index"/>
+    <file name="nomq_index.css" crc="4015975909" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="main_bg_5.jpg" crc="441756366" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="main_bg_line_1.png" crc="256139511" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wunder_logo.svg" crc="3826265854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wunder_logo_poster_.png" crc="88029000" ref="index"/>
+    <file name="wunder_text.svg" crc="350752534" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wunder_text_poster_.png" crc="3798001873" ref="index"/>
+    <file name="1052.jpg" crc="353932599" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="face.png" crc="476680621" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagramcom.png" crc="3979466080" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="15509133" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube.png" crc="4007227661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1052-u3540-fr.jpg" crc="4034457278" ref="index"/>
+    <file name="main_bg_5-u2329-fr.jpg" crc="94717910" ref="index"/>
+    <file name="1052-u3540-fr2.jpg" crc="363080140" ref="index"/>
+    <file name="1052-u3540-fr3.jpg" crc="4148640535" ref="index"/>
+    <file name="main_bg_5-u2329-fr2.jpg" crc="465382923" ref="index"/>
+    <file name="1052-u3540-fr4.jpg" crc="275281180" ref="index"/>
+    <file name="main_bg_5-u2329-fr3.jpg" crc="149616465" ref="index"/>
+    <file name="1052-u3540-fr5.jpg" crc="333714872" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="71402410" seo="true" mt="1543086198417" redirect="true"/>
+</manifest>
