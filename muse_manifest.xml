@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wunderpilates.com" resolutions="1x" timestamp="1543088141070">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wunderpilates.com" resolutions="1x" timestamp="1543583875032">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4021456811" ref="index"/>
-    <file name="nomq_index.css" crc="4015975909" ref="index"/>
+    <file name="index.css" crc="487897747" ref="index"/>
+    <file name="nomq_index.css" crc="3839037310" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -90,5 +90,5 @@
     <file name="1052-u3540-fr5.jpg" crc="333714872" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="71402410" seo="true" mt="1543086198417" redirect="true"/>
+  <file name="index.html" crc="427294217" seo="true" mt="1543583718568" redirect="true"/>
 </manifest>
